@@ -1,0 +1,35 @@
+{
+  "version": "1.0.0",
+  "files": [
+    {
+      "path": "samp.exe",
+      "url": "https://<your-username>.github.io/lgsa-launcher-files/samp.exe",
+      "hash": "910227F4B451E3ECD1E0C8565FB2951E1F34164C2F441C6F384EE343B414A1B4",
+      "size": 412672
+    },
+    {
+      "path": "samp.dll",
+      "url": "https://princerodgers.github.io/lgsa-launcher-files/samp.dll",
+      "hash": "B72B5DBE725F81864CA3F78BC7063BDA56CC05FC7188AF822FA7A754432553A2",
+      "size": 1204224
+    },
+    {
+      "path": "vorbis.dll",
+      "url": "https://princeordgers.github.io/lgsa-launcher-files/vorbis.dll",
+      "hash": "FEFDA850B69E007FCEBA644483C7616BC07E9F177FC634FB74E114F0D15B0DB0",
+      "size": 1060864
+    },
+    {
+      "path": "vorbisFile.dll",
+      "url": "https://princerodgers.github.io/lgsa-launcher-files/vorbisFile.dll",
+      "hash": "6CCF42587CAEEE3A09F6372A4E73CC657EA67C7FDC0234017A39ADAAC6D7BC80",
+      "size": 53760
+    },
+    {
+      "path": "ogg.dll",
+      "url": "https://princerodgers.github.io/lgsa-launcher-files/ogg.dll",
+      "hash": "4A4F65427E016B3C5AE0D2517A69DB5F1CDC7A43D2C0A7957E8DA5D6F378F063",
+      "size": 36864
+    }
+  ]
+}
